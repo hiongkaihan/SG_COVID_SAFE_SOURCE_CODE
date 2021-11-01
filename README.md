@@ -3,7 +3,7 @@
 # Requirements to run application:
 
 1) Must be connected to SOC VPN
-2) Have a browser that run http (use incognito mode in google chrome)
+2) Have a browser that runs http (use incognito mode in google chrome)
 
 # Instructions for testing
 1) Open a browser that is able to run http and enter this URL http://group3-1-i.comp.nus.edu.sg:5437/
